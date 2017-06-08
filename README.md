@@ -3,6 +3,7 @@
 
 ## 主要内容
 ### [JDBC](https://github.com/shixinke/spring-practise/tree/master/jdbc "JDBC")
+### [mybatis](https://github.com/shixinke/spring-practise/tree/master/mybatis "mybatis")
 
 预览：
 
